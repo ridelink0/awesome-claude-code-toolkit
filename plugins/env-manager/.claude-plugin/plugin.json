@@ -1,6 +1,9 @@
 {
   "name": "env-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set up and validate environment configurations across environments",
-  "commands": ["commands/env-setup.md", "commands/env-validate.md"]
+  "commands": [
+    "./commands/env-setup.md",
+    "./commands/env-validate.md"
+  ]
 }

@@ -1,6 +1,9 @@
 {
   "name": "gcp-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Cloud Platform service configuration and deployment",
-  "commands": ["commands/setup-cloud-run.md", "commands/configure-gcs.md"]
+  "commands": [
+    "./commands/setup-cloud-run.md",
+    "./commands/configure-gcs.md"
+  ]
 }

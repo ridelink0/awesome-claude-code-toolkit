@@ -1,6 +1,8 @@
 {
   "name": "onboarding-guide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "New developer onboarding documentation generator",
-  "commands": ["commands/create-guide.md"]
+  "commands": [
+    "./commands/create-guide.md"
+  ]
 }

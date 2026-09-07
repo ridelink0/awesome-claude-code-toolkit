@@ -1,6 +1,8 @@
 {
   "name": "codebase-documenter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto-document entire codebase with inline comments and API docs",
-  "commands": ["commands/document-all.md"]
+  "commands": [
+    "./commands/document-all.md"
+  ]
 }

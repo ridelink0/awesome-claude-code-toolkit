@@ -1,6 +1,9 @@
 {
   "name": "backend-architect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backend service architecture design with endpoint scaffolding",
-  "commands": ["commands/design-service.md", "commands/add-endpoint.md"]
+  "commands": [
+    "./commands/design-service.md",
+    "./commands/add-endpoint.md"
+  ]
 }

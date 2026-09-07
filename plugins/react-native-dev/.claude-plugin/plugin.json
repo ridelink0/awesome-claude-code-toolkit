@@ -1,6 +1,9 @@
 {
   "name": "react-native-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native mobile development with platform-specific optimizations",
-  "commands": ["commands/create-screen.md", "commands/native-module.md"]
+  "commands": [
+    "./commands/create-screen.md",
+    "./commands/native-module.md"
+  ]
 }

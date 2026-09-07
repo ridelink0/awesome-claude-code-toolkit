@@ -1,6 +1,8 @@
 {
   "name": "double-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Verify code correctness with systematic second-pass analysis",
-  "commands": ["commands/verify.md"]
+  "commands": [
+    "./commands/verify.md"
+  ]
 }

@@ -1,6 +1,8 @@
 {
   "name": "import-organizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Organize, sort, and clean import statements",
-  "commands": ["commands/organize.md"]
+  "commands": [
+    "./commands/organize.md"
+  ]
 }

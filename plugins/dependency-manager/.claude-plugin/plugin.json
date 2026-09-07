@@ -1,6 +1,9 @@
 {
   "name": "dependency-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Audit, update, and manage project dependencies with safety checks",
-  "commands": ["commands/audit-deps.md", "commands/update-deps.md"]
+  "commands": [
+    "./commands/audit-deps.md",
+    "./commands/update-deps.md"
+  ]
 }

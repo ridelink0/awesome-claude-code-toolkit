@@ -1,6 +1,9 @@
 {
   "name": "complexity-reducer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reduce cyclomatic complexity and simplify functions",
-  "commands": ["commands/analyze-complexity.md", "commands/simplify-fn.md"]
+  "commands": [
+    "./commands/analyze-complexity.md",
+    "./commands/simplify-fn.md"
+  ]
 }

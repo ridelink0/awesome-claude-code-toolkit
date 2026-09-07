@@ -1,7 +1,9 @@
 {
   "name": "claude-code-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete developer toolkit for Claude Code",
-  "author": "Rohit Ghumare",
+  "author": {
+    "name": "Rohit Ghumare"
+  },
   "license": "Apache-2.0"
 }

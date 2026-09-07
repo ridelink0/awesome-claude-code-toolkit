@@ -1,6 +1,10 @@
 {
   "name": "deploy-pilot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deployment automation with Dockerfile generation, CI/CD pipelines, and infrastructure as code",
-  "commands": ["commands/dockerfile.md", "commands/ci-pipeline.md", "commands/k8s-manifest.md"]
+  "commands": [
+    "./commands/dockerfile.md",
+    "./commands/ci-pipeline.md",
+    "./commands/k8s-manifest.md"
+  ]
 }

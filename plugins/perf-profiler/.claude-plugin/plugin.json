@@ -1,6 +1,9 @@
 {
   "name": "perf-profiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Performance analysis, profiling, and optimization recommendations",
-  "commands": ["commands/profile.md", "commands/optimize.md"]
+  "commands": [
+    "./commands/profile.md",
+    "./commands/optimize.md"
+  ]
 }

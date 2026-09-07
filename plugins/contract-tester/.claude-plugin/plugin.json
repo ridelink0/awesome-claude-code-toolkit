@@ -1,6 +1,9 @@
 {
   "name": "contract-tester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API contract testing with Pact for microservice compatibility",
-  "commands": ["commands/create-contract.md", "commands/verify-contract.md"]
+  "commands": [
+    "./commands/create-contract.md",
+    "./commands/verify-contract.md"
+  ]
 }

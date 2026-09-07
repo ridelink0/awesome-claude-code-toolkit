@@ -1,6 +1,9 @@
 {
   "name": "regex-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build, test, and debug regular expression patterns",
-  "commands": ["commands/build-regex.md", "commands/test-regex.md"]
+  "commands": [
+    "./commands/build-regex.md",
+    "./commands/test-regex.md"
+  ]
 }

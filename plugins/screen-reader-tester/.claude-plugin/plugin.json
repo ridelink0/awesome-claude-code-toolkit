@@ -1,6 +1,9 @@
 {
   "name": "screen-reader-tester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Screen reader compatibility testing and ARIA fixes",
-  "commands": ["commands/test-sr.md", "commands/fix-aria.md"]
+  "commands": [
+    "./commands/test-sr.md",
+    "./commands/fix-aria.md"
+  ]
 }

@@ -1,6 +1,9 @@
 {
   "name": "rapid-prototyper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick prototype scaffolding with minimal viable structure",
-  "commands": ["commands/prototype.md", "commands/mockup.md"]
+  "commands": [
+    "./commands/prototype.md",
+    "./commands/mockup.md"
+  ]
 }

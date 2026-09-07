@@ -1,6 +1,9 @@
 {
   "name": "memory-profiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Memory leak detection and heap analysis",
-  "commands": ["commands/profile-memory.md", "commands/find-leaks.md"]
+  "commands": [
+    "./commands/profile-memory.md",
+    "./commands/find-leaks.md"
+  ]
 }

@@ -1,6 +1,9 @@
 {
   "name": "ci-debugger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Debug CI/CD pipeline failures and fix configurations",
-  "commands": ["commands/analyze-ci-failure.md", "commands/fix-pipeline.md"]
+  "commands": [
+    "./commands/analyze-ci-failure.md",
+    "./commands/fix-pipeline.md"
+  ]
 }

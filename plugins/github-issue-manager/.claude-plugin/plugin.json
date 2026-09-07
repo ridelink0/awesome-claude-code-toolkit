@@ -1,6 +1,9 @@
 {
   "name": "github-issue-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GitHub issue triage, creation, and management",
-  "commands": ["commands/triage-issues.md", "commands/create-issue.md"]
+  "commands": [
+    "./commands/triage-issues.md",
+    "./commands/create-issue.md"
+  ]
 }

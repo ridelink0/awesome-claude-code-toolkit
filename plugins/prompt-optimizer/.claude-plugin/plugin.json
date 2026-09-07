@@ -1,6 +1,9 @@
 {
   "name": "prompt-optimizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze and optimize AI prompts for better results",
-  "commands": ["commands/analyze-prompt.md", "commands/optimize-prompt.md"]
+  "commands": [
+    "./commands/analyze-prompt.md",
+    "./commands/optimize-prompt.md"
+  ]
 }

@@ -1,6 +1,9 @@
 {
   "name": "a11y-audit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full accessibility audit with WCAG compliance checking",
-  "commands": ["commands/run-audit.md", "commands/generate-report.md"]
+  "commands": [
+    "./commands/run-audit.md",
+    "./commands/generate-report.md"
+  ]
 }

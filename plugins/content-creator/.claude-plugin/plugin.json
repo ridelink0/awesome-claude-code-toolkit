@@ -1,6 +1,9 @@
 {
   "name": "content-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Technical content generation for blog posts and social media",
-  "commands": ["commands/write-post.md", "commands/social-media.md"]
+  "commands": [
+    "./commands/write-post.md",
+    "./commands/social-media.md"
+  ]
 }

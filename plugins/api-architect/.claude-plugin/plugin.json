@@ -1,7 +1,12 @@
 {
   "name": "api-architect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API design, documentation, and testing with OpenAPI spec generation",
-  "commands": ["commands/design-api.md", "commands/generate-openapi.md"],
-  "agents": ["agents/api-expert.md"]
+  "commands": [
+    "./commands/design-api.md",
+    "./commands/generate-openapi.md"
+  ],
+  "agents": [
+    "./agents/api-expert.md"
+  ]
 }

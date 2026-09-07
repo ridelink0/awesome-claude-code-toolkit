@@ -1,6 +1,9 @@
 {
   "name": "dead-code-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find and remove dead code across the codebase",
-  "commands": ["commands/find-dead-code.md", "commands/remove-dead-code.md"]
+  "commands": [
+    "./commands/find-dead-code.md",
+    "./commands/remove-dead-code.md"
+  ]
 }

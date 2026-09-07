@@ -1,6 +1,9 @@
 {
   "name": "project-scaffold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold new projects and add features with best-practice templates",
-  "commands": ["commands/scaffold.md", "commands/add-feature.md"]
+  "commands": [
+    "./commands/scaffold.md",
+    "./commands/add-feature.md"
+  ]
 }

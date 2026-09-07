@@ -1,6 +1,8 @@
 {
   "name": "seed-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Database seeding script generation with realistic data",
-  "commands": ["commands/generate-seeds.md"]
+  "commands": [
+    "./commands/generate-seeds.md"
+  ]
 }

@@ -1,6 +1,9 @@
 {
   "name": "security-guidance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Security best practices advisor with vulnerability detection and fixes",
-  "commands": ["commands/security-check.md", "commands/fix-vulnerability.md"]
+  "commands": [
+    "./commands/security-check.md",
+    "./commands/fix-vulnerability.md"
+  ]
 }

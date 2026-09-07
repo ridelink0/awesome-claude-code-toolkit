@@ -1,6 +1,8 @@
 {
   "name": "unit-test-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate comprehensive unit tests for any function or module",
-  "commands": ["commands/generate-tests.md"]
+  "commands": [
+    "./commands/generate-tests.md"
+  ]
 }

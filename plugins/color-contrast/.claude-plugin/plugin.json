@@ -1,6 +1,9 @@
 {
   "name": "color-contrast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Color contrast checking and accessible color suggestions",
-  "commands": ["commands/check-contrast.md", "commands/suggest-colors.md"]
+  "commands": [
+    "./commands/check-contrast.md",
+    "./commands/suggest-colors.md"
+  ]
 }

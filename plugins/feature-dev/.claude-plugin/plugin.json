@@ -1,6 +1,9 @@
 {
   "name": "feature-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full feature development workflow from spec to completion",
-  "commands": ["commands/implement.md", "commands/complete.md"]
+  "commands": [
+    "./commands/implement.md",
+    "./commands/complete.md"
+  ]
 }

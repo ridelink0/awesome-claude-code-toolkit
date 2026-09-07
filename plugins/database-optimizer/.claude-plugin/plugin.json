@@ -1,6 +1,9 @@
 {
   "name": "database-optimizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Database query optimization with index recommendations and EXPLAIN analysis",
-  "commands": ["commands/analyze-query.md", "commands/add-index.md"]
+  "commands": [
+    "./commands/analyze-query.md",
+    "./commands/add-index.md"
+  ]
 }

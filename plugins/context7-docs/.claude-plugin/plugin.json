@@ -1,6 +1,8 @@
 {
   "name": "context7-docs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch up-to-date library documentation via Context7 for accurate coding",
-  "commands": ["commands/fetch-docs.md"]
+  "commands": [
+    "./commands/fetch-docs.md"
+  ]
 }

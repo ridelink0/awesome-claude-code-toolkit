@@ -1,6 +1,9 @@
 {
   "name": "linear-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linear issue tracking integration and workflow management",
-  "commands": ["commands/create-ticket.md", "commands/update-status.md"]
+  "commands": [
+    "./commands/create-ticket.md",
+    "./commands/update-status.md"
+  ]
 }

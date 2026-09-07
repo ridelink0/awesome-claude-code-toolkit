@@ -1,6 +1,8 @@
 {
   "name": "n8n-workflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate n8n automation workflows from natural language descriptions",
-  "commands": ["commands/create-workflow.md"]
+  "commands": [
+    "./commands/create-workflow.md"
+  ]
 }

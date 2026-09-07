@@ -1,6 +1,9 @@
 {
   "name": "web-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full-stack web development with app scaffolding and page generation",
-  "commands": ["commands/scaffold-app.md", "commands/add-page.md"]
+  "commands": [
+    "./commands/scaffold-app.md",
+    "./commands/add-page.md"
+  ]
 }
